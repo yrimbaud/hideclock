@@ -35,6 +35,3 @@ The settings are organized into four tabs:
 3) Schedule controls when the overlay is visible. Choose between always-on, a daily time range, a weekly schedule with per-day configuration, or a countdown duration.
 
 4) Content determines what appears on the overlay: nothing, the current time, custom text, or a countdown timer.
-## License
-
-MIT License. See [LICENSE](LICENSE) for details.
