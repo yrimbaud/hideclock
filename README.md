@@ -16,11 +16,11 @@ Sometimes the clock is a distraction. Maybe you're trying to focus, giving a pre
 
 4) Smart behavior options include hiding the overlay automatically when your mouse approaches it, with configurable detection distance.
 
-5) Persistence** ensures your countdown timer remembers where it left off if you quit and relaunch the app.
+5) Persistence ensures your countdown timer remembers where it left off if you quit and relaunch the app.
 
 ## Installation
 
-Download the latest `.dmg` from the [Releases](https://github.com/yrimbaud/HideClock/releases) page, open it, and drag HideClock to your Applications folder. On first launch, you may need to right-click and select "Open" to bypass Gatekeeper.
+Download the latest `.app` from the [Releases](https://github.com/yrimbaud/HideClock/releases) page, open it, and drag HideClock to your Applications folder. On first launch, you may need to right-click and select "Open" to bypass Gatekeeper.
 
 ## Usage
 
